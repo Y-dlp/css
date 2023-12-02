@@ -1,8 +1,13 @@
+@import url('colors/main.css');
+@import url('padding/main.css');
 @import url('height/height_in_pixels.css');
 @import url('margin/margin_top_in_pixels.css');
+@import url('text/text_align.css');
 @import url('width/width_in_pixels.css');
 
 .box-c{
   margin-left: 50%;
   transform: translate(-50%);
 }
+.padding-none{padding: 0px}
+.margin-none{margin: 0px}

@@ -1,4 +1,6 @@
-@import url('margin/margin-top.css');
+@import url('height/height_in_pixels.css');
+@import url('margin/margin_top_in_pixels.css');
+@import url('width/width_in_pixels.css');
 
 .box-c{
   margin-left: 50%;
